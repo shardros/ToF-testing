@@ -86,10 +86,10 @@ void loop(void)
 
     Serial.print(" var: ");
     Serial.print(var);
-    
+
     Serial.print(" sd: ");
     Serial.print(sd);**/
-    
+
     Serial.println();
 
   }
